@@ -1,0 +1,19 @@
+{
+    "books": [
+      {
+        "title": "Book1",
+        "autor": "Roger",
+        "id": "05dafc66-bd91-43a0-a752-4dc40f039144"
+      },
+      {
+        "title": "Book2",
+        "autor": "Joel",
+        "id": "05d5s4d65f6-bd91-43a0-a752-4dc40f039144"
+      },
+      {
+        "title": "Book3",
+        "autor": "Joaho",
+        "id": "05dafc66-bd91-43a0-a752-4d5fg65df144"
+      }
+    ]
+  }
